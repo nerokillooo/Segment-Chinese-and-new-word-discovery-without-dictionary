@@ -1,5 +1,5 @@
 # tokenize-Chinese-without-dictionary
-无字典分词算法以及发现新词算法
+无字典分词以及新词发现算法
 
 改写自https://github.com/Moonshile/ChineseWordSegmentation
 
