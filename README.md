@@ -1,4 +1,4 @@
-# tokenize-Chinese-without-dictionary
+# segment-Chinese-and-new-word-discovery-without-dictionary
 无字典分词以及新词发现算法
 
 改写自https://github.com/Moonshile/ChineseWordSegmentation
