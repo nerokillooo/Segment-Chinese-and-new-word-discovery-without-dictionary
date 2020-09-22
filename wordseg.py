@@ -30,7 +30,6 @@ def indexOfSortedSuffix(doc, max_word_len):
             indexes.append((i, j))
     return sorted(indexes, key=lambda i_j: doc[i_j[0]:i_j[1]])
 
-
 class WordInfo(object):
     """
     Store information of each word, including its freqency, left neighbors and right neighbors
